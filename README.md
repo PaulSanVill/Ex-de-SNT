@@ -1,1 +1,1 @@
-# Ex-de-SNT
+# SNT
